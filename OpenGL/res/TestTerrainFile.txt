@@ -1,0 +1,18 @@
+nav textures
+texture TestImage
+size 1000 1000
+b 10 10
+b 20 20
+b 30 30
+nav out
+texture Crate
+b 15 15
+b 25 25
+line 0 0 25 35
+line 10 0 35 35
+speed 10
+triangles
+plot 0 0
+plot 5 0
+plot 0 5
+end
